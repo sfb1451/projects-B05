@@ -1,1 +1,2 @@
+81021ee7-f807-458d-acc3-e75908d26d4e exporttree=yes sameas-name=my-sciebo-storage sameas-uuid=fecbd123-965f-4227-9d64-01958acab77a type=webdav url=https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B05/pub_dataset timestamp=1665753934.571695495s
 fecbd123-965f-4227-9d64-01958acab77a encryption=none exporttree=yes name=B05_DataLad_Sciebo-storage type=webdav url=https://uni-koeln.sciebo.de/remote.php/dav/files/vwunderl%40uni-koeln.de/B05/pub_dataset timestamp=1665060309.184016s

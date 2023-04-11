@@ -1,76 +1,18 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
-cff-version: 1.2.0
-title: >-
-  Single-case Predictions of Motor Abilities in  
-  Health and Disease 
-message: This is our project description
-type: dataset
+abstract: Project B05 explores the neurobiological basis of inter-individual differences
+  in motor functions based on MRI and fMRI by training multivariate statistical learning
+  models and evaluating their accuracy for predicting individual motor functions in
+  previously unseen subjects. The resulting models will describe the neurobiology
+  of inter-individual differences, also considering ageing. They will be extended
+  to patients with ischemic strokes through novel transfer-learning approaches, thereby
+  offering new insights into the pathophysiology underlying motor impairment and recovery
+  of function.
 authors:
-  - given-names: Simon
-    family-names: Eickhoff
-    affiliation: >-
-      Institute of Neuroscience and Medicine, Brain
-      and Behavior (INM-7), Research Center Jüelich,
-      Germany; Institute of Systems Neuroscience,
-      Medical Faculty, Heinrich Heine University
-      Düsseldorf, Germany.
-  - given-names: Christian
-    family-names: Grefkes
-    affiliation: >-
-      Department of Neurology, Faculty of Medicine
-      and University Hospital Cologne, University of
-      Cologne, Germany; Cognitive Neuroscience,
-      Institute of Neuroscience and Medicine (INM-3),
-      Research Centre Juelich, Germany.
-  - given-names: Masoud
-    family-names: Tahmasian
-    affiliation: >-
-      Institute of Neuroscience and Medicine, Brain &
-      Behaviour (INM-7), Research Centre Jülich,
-      Jülich, Germany; Institute of Systems
-      Neuroscience, Heinrich Heine University
-      Düsseldorf, Düsseldorf, Germany; Institute of
-      Medical Science and Technology, Shahid Beheshti
-      University, Tehran, Iran.
-  - given-names: Vera
-    family-names: Komeyer
-    affiliation: >-
-      Institute of Neuroscience and Medicine, Brain
-      and Behavior (INM-7), Research Center Jülich,
-      Germany.
-  - given-names: Kimia
-    family-names: Nazarzadeh
-    affiliation: >-
-      Institute of Neuroscience and Medicine, Brain
-      and Behavior (INM-7), Research Center Jülich,
-      Germany.
-  - given-names: Caroline
-    family-names: Tscherpel
-    affiliation: >-
-      Department of Neurology, Faculty of Medicine
-      and University Hospital Cologne, University of
-      Cologne, Germany; Cognitive Neuroscience,
-      Institute of Neuroscience and Medicine (INM-3),
-      Research Centre Juelich, Germany.
-  - given-names: Lukas
-    family-names: Hensel
-    affiliation: >-
-      Faculty of Medicine and University Hospital
-      Cologne, Department of Neurology, University of
-      Cologne, Cologne, Germany.
-abstract: |2
-    Project B05 explores the neurobiological basis of
-    inter-individual differences in motor functions
-    based on MRI and fMRI by training multivariate
-    statistical learning models and evaluating their
-    accuracy for predicting individual motor functions
-    in previously unseen subjects. The resulting models
-    will describe the neurobiology of inter-individual
-    differences, also considering ageing. They will be
-    extended to patients with ischemic strokes through
-    novel transfer-learning approaches, thereby
-    offering new insights into the pathophysiology
-    underlying motor impairment and recovery of
-    function.
+- {family-names: Eickhoff, given-names: Simon}
+- {family-names: Grefkes, given-names: Christian}
+- {family-names: Tahmasian, given-names: Masoud}
+- {family-names: komeyer, given-names: Vera}
+- {family-names: Nazarzadeh, given-names: Kimia}
+- {family-names: Tscherpel, given-names: Caroline}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: Single-case predictions of motor abilities in health and disease

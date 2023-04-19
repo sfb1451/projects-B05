@@ -1,0 +1,18 @@
+abstract: Project B05 explores the neurobiological basis of inter-individual differences
+  in motor functions based on MRI and fMRI by training multivariate statistical learning
+  models and evaluating their accuracy for predicting individual motor functions in
+  previously unseen subjects. The resulting models will describe the neurobiology
+  of inter-individual differences, also considering ageing. They will be extended
+  to patients with ischemic strokes through novel transfer-learning approaches, thereby
+  offering new insights into the pathophysiology underlying motor impairment and recovery
+  of function.
+authors:
+- {family-names: Eickhoff, given-names: Simon}
+- {family-names: Grefkes, given-names: Christian}
+- {family-names: Tahmasian, given-names: Masoud}
+- {family-names: Komeyer, given-names: Vera}
+- {family-names: Nazarzadeh, given-names: Kimia}
+- {family-names: Tscherpel, given-names: Caroline}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'B05: Single-case predictions of motor abilities in health and disease'

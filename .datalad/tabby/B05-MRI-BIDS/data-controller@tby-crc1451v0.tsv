@@ -1,1 +1,5 @@
-../../../.git/annex/objects/z1/2f/MD5E-s288--bcb49b7513a85e0cc5345801c8fc44a3.tsv/MD5E-s288--bcb49b7513a85e0cc5345801c8fc44a3.tsv
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-data-controller-required		
+# bold indicates required			
+name	email	type	address
+Prof. Dr. Simon Eickhoff	s.eickhoff@fz-juelich.de    Person	
+Prof. Dr. Christian Grefkes	christian.grefkes-hermann@kgu.de	Person	
